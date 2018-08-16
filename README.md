@@ -4,7 +4,10 @@ Anotações
 
 <nome> .space <valor> #fazer um vetor
 
-precisamos aprender
+
+=============================////\\\\========================================
+
+Precisamos aprender
 
 receber valor do teclado 
 
@@ -12,5 +15,12 @@ receber valor do teclado
 
 
 printar valores
+
+
+
 criar / manipular vetores
+
+
+
+
 operaçoes
